@@ -1,4 +1,9 @@
-- NLP General  
+- NLP General    
+
+  - Transformer  
+
+    - https://nlp.seas.harvard.edu/2018/04/03/attention.html  
+    - http://machinelearningkorea.com/2019/07/09/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-transformer%EC%99%80-%EC%96%B4%ED%85%90%EC%85%98-attention%EC%9D%84-%ED%86%B5%ED%95%B4%EC%84%9C-bert%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/
 
   - Bert 
     - https://medium.com/dissecting-bert
@@ -7,25 +12,41 @@
 
     - http://docs.likejazz.com/bert/#%ED%95%99%EC%8A%B5
 
-    - pytorch: https://github.com/dhlee347/pytorchic-bert/blob/master/models.py#L123-L133
+    - pytorch: https://github.com/dhlee347/pytorchic-bert/blob/master/models.py#L123-L133  
 
+    - 파이토치: https://colab.research.google.com/drive/1pTuQhug6Dhl9XalKB0zUGf4FIdYFlpcX#scrollTo=EKOTlwcmxmej
+
+      - 해설: https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+
+    - https://mino-park7.github.io/nlp/2018/12/12/bert-%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC/?fbclid=IwAR3S-8iLWEVG6FGUVxoYdwQyA-zG0GpOUzVEsFBd0ARFg4eFXqCyGLznu7w  
+
+    - 감성 분석: https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/
+
+    - 버트 노트북 모음: https://github.com/huggingface/transformers/tree/master/notebooks  
+
+    - 국역 설명 https://www.secmem.org/blog/2020/07/19/Sentiment-Analysis/  
+    
+    - 버트 임베딩: https://medium.com/analytics-vidhya/bert-word-embeddings-deep-dive-32f6214f02bf
+    
       
-
+    
     - NEG
-
+    
     - https://m.blog.naver.com/PostView.nhn?blogId=hist0134&logNo=221218233489&proxyReferer=https:%2F%2Fwww.google.com%2F
-
+    
       
-
+    
   - **practice NLP** 
     - https://github.com/rguthrie3/DeepLearningForNLPInPytorch/blob/master/Deep%20Learning%20for%20Natural%20Language%20Processing%20with%20Pytorch.ipynb
 
     
 
     - https://github.com/keitakurita/Practical_NLP_in_PyTorch
-    -  https://github.com/PythonWorkshop/intro-to-nlp-with-pytorch/blob/master/Word%20Embeddings/Word%20Embeddings.ipynb
+    -  https://github.com/PythonWorkshop/intro-to-nlp-with-pytorch/blob/master/Word%20Embeddings/Word%20Embeddings.ipynb  
 
-    **Doc2vec**
+  - https://inahjeon.github.io/devfest2019/
+
+  **Doc2vec**
 
     - https://lovit.github.io/nlp/2019/06/18/joint_visualization_of_worddoc/
     - https://medium.com/@mishra.thedeepak/doc2vec-simple-implementation-example-df2afbbfbad5
@@ -56,7 +77,13 @@
   - NGCF  
     - https://github.com/talkingwallace/NGCF-pytorch/tree/master/GraphNCF
   - GNN
-    - https://github.com/emergx/GNNPapers#recommender-systems
+    - https://github.com/emergx/GNNPapers#recommender-systems  
+    - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)
+      - Graph Neural Network 2005
+      - ChebyNets 2016
+      - Graph Convolution Network 2017
+      - Neural Message Passing 2017
+      - AMPNets 2018
 
 - Image Processing
 
