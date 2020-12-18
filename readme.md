@@ -68,14 +68,19 @@
 - Recommender System  
 
   - General  
+    
     - https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems
   -  Factorization Machine  
     -  https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
     - https://greeksharifa.github.io/machine_learning/2019/12/21/FM/
   - NCF  
+    
     - https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recommender/neural_collaborative_filtering
   - NGCF  
+    
     - https://github.com/talkingwallace/NGCF-pytorch/tree/master/GraphNCF
+    
+      
   - GNN
     - https://github.com/emergx/GNNPapers#recommender-systems  
     - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)
@@ -83,7 +88,8 @@
       - ChebyNets 2016
       - Graph Convolution Network 2017
       - Neural Message Passing 2017
-      - AMPNets 2018
+      - AMPNets 2018  
+    - GNN Tutorials: https://github.com/graphdeeplearning/benchmarking-gnns
 
 - Image Processing
 
