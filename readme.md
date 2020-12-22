@@ -80,7 +80,6 @@
     
     - https://github.com/talkingwallace/NGCF-pytorch/tree/master/GraphNCF
     
-      
   - GNN
     - https://github.com/emergx/GNNPapers#recommender-systems  
     - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)
@@ -89,7 +88,12 @@
       - Graph Convolution Network 2017
       - Neural Message Passing 2017
       - AMPNets 2018  
-    - GNN Tutorials: https://github.com/graphdeeplearning/benchmarking-gnns
+    - GNN Tutorials: https://github.com/graphdeeplearning/benchmarking-gnns  
+  - 위치 기반 추천 서비스
+    - 네이버 위치기반 추천 서비스: https://zdnet.co.kr/view/?no=20180330173316  
+    - 카카오 위치 기반 서비스 정리: http://www.kakao.com/location/180801_lnb_list_ko.html  
+    - 튜토리얼: https://github.com/Adarshsng/location-based-Restaurant-Recommendation-engine  
+    - Tinder 위치 기반 추천: https://brunch.co.kr/@andrewhwan/58
 
 - Image Processing
 
@@ -99,4 +103,9 @@
     - https://lsjsj92.tistory.com/407
   - GAN
     - https://ysbsb.github.io/gan/2020/06/17/GAN-newbie-guide.html
-    - https://blog.naver.com/PostView.nhn?blogId=laonple&logNo=221306150417
+    - https://blog.naver.com/PostView.nhn?blogId=laonple&logNo=221306150417  
+  
+- 업무 자동화  
+
+  - 이미지to텍스트 변환  
+    - https://brunch.co.kr/@moaikim/29
