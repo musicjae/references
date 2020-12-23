@@ -70,25 +70,45 @@
   - General  
     
     - https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems
+    
   -  Factorization Machine  
     -  https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
     - https://greeksharifa.github.io/machine_learning/2019/12/21/FM/
+    
   - NCF  
     
     - https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recommender/neural_collaborative_filtering
+    
   - NGCF  
     
     - https://github.com/talkingwallace/NGCF-pytorch/tree/master/GraphNCF
     
-  - GNN
-    - https://github.com/emergx/GNNPapers#recommender-systems  
+  - GNN  
+    
+    - Textbook: https://www.cs.mcgill.ca/~wlh/grl_book/  
+    
+    - Tutorials
+    
+    - https://github.com/emergx/GNNPapers#recommender-systems    
+    
+    - https://github.com/SeongokRyu/Graph-neural-networks  
+    
+    - https://github.com/dglai/KDD20-Hands-on-Tutorial  
+    
+    - https://www.researchgate.net/publication/343948931_Deep_Learning_on_Graphs_a_Tutorial  
+    
+    - https://github.com/graphdeeplearning/benchmarking-gnns  
+    
     - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)
       - Graph Neural Network 2005
       - ChebyNets 2016
       - Graph Convolution Network 2017
       - Neural Message Passing 2017
       - AMPNets 2018  
-    - GNN Tutorials: https://github.com/graphdeeplearning/benchmarking-gnns  
+      - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) 2018
+    
+      
+    
   - 위치 기반 추천 서비스
     - 네이버 위치기반 추천 서비스: https://zdnet.co.kr/view/?no=20180330173316  
     - 카카오 위치 기반 서비스 정리: http://www.kakao.com/location/180801_lnb_list_ko.html  
