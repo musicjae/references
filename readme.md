@@ -85,7 +85,9 @@
     
   - GNN  
     
-    - Textbook: https://www.cs.mcgill.ca/~wlh/grl_book/  
+    - Textbook: https://www.cs.mcgill.ca/~wlh/grl_book/    
+    
+    - guide: https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc
     
     - Tutorials
     
@@ -115,8 +117,11 @@
     - 튜토리얼: https://github.com/Adarshsng/location-based-Restaurant-Recommendation-engine  
     - Tinder 위치 기반 추천: https://brunch.co.kr/@andrewhwan/58
 
-- Image Processing
+- Image Processing  
 
+  - Annotation Tool  
+  - 정리: https://m.blog.naver.com/PostView.nhn?blogId=jws2218&logNo=221922574525&categoryNo=1&proxyReferer=https:%2F%2Fwww.google.com%2F  
+    - VGG annotator https://www.youtube.com/watch?v=MRkdgOoUqFk
   - Transfer Learning
     - https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
     -  https://github.com/dipanjanS/hands-on-transfer-learning-with-python
@@ -129,3 +134,9 @@
 
   - 이미지to텍스트 변환  
     - https://brunch.co.kr/@moaikim/29
+  
+- Flask  
+
+  - API 패키징  
+    - 이미지 분류 https://keraskorea.github.io/posts/2018-10-27-Keras%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20REST%20API%EB%A1%9C%20%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EA%B8%B0/  
+    - 얼굴 인식 https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b 
