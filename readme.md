@@ -83,13 +83,15 @@
     
     - https://github.com/talkingwallace/NGCF-pytorch/tree/master/GraphNCF
     
-  - GNN  
+  - GNN    
     
     - Textbook: https://www.cs.mcgill.ca/~wlh/grl_book/    
     
     - guide: https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc
     
-    - Tutorials
+    - Tutorials  
+    
+    - https://github.com/microsoft/recommenders Wide & Deep
     
     - https://github.com/emergx/GNNPapers#recommender-systems    
     
@@ -99,7 +101,11 @@
     
     - https://www.researchgate.net/publication/343948931_Deep_Learning_on_Graphs_a_Tutorial  
     
-    - https://github.com/graphdeeplearning/benchmarking-gnns  
+    - https://github.com/graphdeeplearning/benchmarking-gnns    
+    
+    - https://leehyejin91.github.io/post-gcmc/ 한국어 논문 요약  
+    
+    - https://soobarkbar.tistory.com/184 SR-GNN
     
     - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)
       - Graph Neural Network 2005
@@ -139,4 +145,13 @@
 
   - API 패키징  
     - 이미지 분류 https://keraskorea.github.io/posts/2018-10-27-Keras%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20REST%20API%EB%A1%9C%20%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EA%B8%B0/  
+    
     - 얼굴 인식 https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b 
+    
+    - [1] https://aws.amazon.com/ko/blogs/developer/deploying-aws-chalice-application-using-aws-cloud-development-kit/
+    
+      [2] bento ML
+    
+      [3] feature store
+    
+      https://www.featurestore.org/
