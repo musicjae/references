@@ -77,46 +77,59 @@
     
   - NCF  
     
-    - https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recommender/neural_collaborative_filtering
+    - https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recommender/neural_collaborative_filtering  
+    - https://github.com/microsoft/recommenders Wide & Deep  
     
   - NGCF  
     
     - https://github.com/talkingwallace/NGCF-pytorch/tree/master/GraphNCF
     
   - GNN    
-    
+
     - Textbook: https://www.cs.mcgill.ca/~wlh/grl_book/    
-    
+
     - guide: https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc
-    
+
     - Tutorials  
-    
-    - https://github.com/microsoft/recommenders Wide & Deep
-    
+
+    - https://medium.com/ai-in-plain-english/graph-convolutional-networks-gcn-baf337d5cb6b GCN에 대한 좋은 설명  
+
+    - https://ganghee-lee.tistory.com/27 GCN 에 대해 정리가 잘 된 국역 설명 
+
     - https://github.com/emergx/GNNPapers#recommender-systems    
-    
+
     - https://github.com/SeongokRyu/Graph-neural-networks  
-    
+
     - https://github.com/dglai/KDD20-Hands-on-Tutorial  
-    
+
     - https://www.researchgate.net/publication/343948931_Deep_Learning_on_Graphs_a_Tutorial  
-    
+
     - https://github.com/graphdeeplearning/benchmarking-gnns    
-    
+
     - https://leehyejin91.github.io/post-gcmc/ 한국어 논문 요약  
-    
+
     - https://soobarkbar.tistory.com/184 SR-GNN
-    
+
     - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)
       - Graph Neural Network 2005
+
       - ChebyNets 2016
+
       - Graph Convolution Network 2017
+
       - Neural Message Passing 2017
+
       - AMPNets 2018  
-      - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) 2018
-    
-      
-    
+
+      - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) 2018  
+
+        
+
+    - Pytorch-geometric  
+      - Yoochoose: https://github.com/khuangaf/PyTorch-Geometric-YooChoose  
+      - tutorial: https://github.com/packyan/Learning-Pytorch-Geometric/blob/master/GCN_Demo/GCN_Demo.ipynb (보기 불편했음)
+      - https://github.com/omiita/PyTorchGeometric-Tutorial/blob/master/PyTorch_Geometric_Tutorial.ipynb (보기 편함)
+
   - 위치 기반 추천 서비스
     - 네이버 위치기반 추천 서비스: https://zdnet.co.kr/view/?no=20180330173316  
     - 카카오 위치 기반 서비스 정리: http://www.kakao.com/location/180801_lnb_list_ko.html  
