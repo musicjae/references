@@ -69,16 +69,23 @@
 
   - General  
     
-    - https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems
+    - https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems  
+    - 추천시스템 세미나 영상 링크들 https://data-artist.tistory.com/7
     
   -  Factorization Machine  
     -  https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
-    - https://greeksharifa.github.io/machine_learning/2019/12/21/FM/
+    - https://greeksharifa.github.io/machine_learning/2019/12/21/FM/  
     
+  - Item2Vec  
+
+    - paper: https://arxiv.org/abs/1603.04259
+    - code: https://www.kaggle.com/unis00/item2vec-sortby-mmr
+
   - NCF  
     
     - https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recommender/neural_collaborative_filtering  
     - https://github.com/microsoft/recommenders Wide & Deep  
+      - dataset[Adult_cencus] 정보 제공: https://www.kaggle.com/prashant111/eda-logistic-regression-pca
     
   - NGCF  
     
@@ -168,3 +175,10 @@
       [3] feature store
     
       https://www.featurestore.org/
+  
+- Pytorch
+
+  - Pytorch
+    - weight init
+      - https://github.com/brindha87/weight_initialization_pytorch/blob/master/weight_initialization_exercise.ipynb
+  - Pytorch-lightening
