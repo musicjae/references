@@ -117,7 +117,8 @@
 
     - https://soobarkbar.tistory.com/184 SR-GNN
 
-    - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)
+    - paper list  (rf. https://www.youtube.com/watch?v=cWIeTMklzNg)  
+    
       - Graph Neural Network 2005
 
       - ChebyNets 2016
@@ -129,8 +130,9 @@
       - AMPNets 2018  
 
       - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) 2018  
-
         
+    - GAT  
+      - https://github.com/gordicaleksa/pytorch-GAT Annotated GAT with code
 
     - Pytorch-geometric  
       - Yoochoose: https://github.com/khuangaf/PyTorch-Geometric-YooChoose  
