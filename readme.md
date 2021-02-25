@@ -65,6 +65,10 @@
   - 전처리  
     - 불용어사전: https://www.ranks.nl/stopwords/korean 
 
+- Text Summarization  
+
+    - 텍스트 요약 길잡이 https://github.com/uoneway/Text-Summarization-Repo#must-read-papers
+
 - Recommender System  
 
   - General  
