@@ -180,7 +180,9 @@
     
       [3] feature store
     
-      https://www.featurestore.org/
+      https://www.featurestore.org/ 
+      
+    - 튜토리얼 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
   
 - Pytorch
 
