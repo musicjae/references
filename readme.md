@@ -68,6 +68,7 @@
 - Text Summarization  
 
     - 텍스트 요약 길잡이 https://github.com/uoneway/Text-Summarization-Repo#must-read-papers
+    - 길잡이2 https://github.com/uoneway/Text-Summarization-Repo
 
 - Recommender System  
 
