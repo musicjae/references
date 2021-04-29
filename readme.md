@@ -64,6 +64,8 @@
     - https://github.com/kimwoonggon/publicservant_AI
   - 전처리  
     - 불용어사전: https://www.ranks.nl/stopwords/korean 
+  - 욕설탐지
+    - http://aidev.co.kr/chatbotdeeplearning/8266
 
 - Text Summarization  
 
