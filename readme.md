@@ -78,6 +78,9 @@
     
     - https://github.com/mengfeizhang820/Paperlist-for-Recommender-Systems  
     - 추천시스템 세미나 영상 링크들 https://data-artist.tistory.com/7
+
+  - Text based Recommender System
+    - https://www.kdnuggets.com/2019/11/content-based-recommender-using-natural-language-processing-nlp.html
     
   -  Factorization Machine  
     -  https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
